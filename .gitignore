@@ -1,0 +1,14 @@
+node_modules/
+*.pyc
+.env
+build/
+dist/
+.DS_Store
+hardhat-artifacts/
+cache/
+out/
+artifacts/
+*.log
+.vscode
+.idea
+
